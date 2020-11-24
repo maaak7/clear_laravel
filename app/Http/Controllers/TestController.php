@@ -8,6 +8,6 @@ class TestController extends Controller
 {
     public function index()
     {
-        dd('hello, world');
+        dd('hello, world!');
     }
 }
